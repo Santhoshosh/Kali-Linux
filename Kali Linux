@@ -1,0 +1,4 @@
+1.git clone https://github.com/Santhoshosh/Kali-Linux.git
+2.Give execution permission : chmod +x kalinethunter
+3.Run script : ./kalinethunter
+4.Now just start kali nethunter: startkali 
